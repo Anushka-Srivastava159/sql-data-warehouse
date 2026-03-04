@@ -31,7 +31,7 @@ GO
 PRINT '>>> Loading Bronze Data';
 :r "bronze/bronze_load_proc.sql"
 GO
-EXEC bronze.load_bronze;
+EXEC bronze.bronze_load;
 GO
 
 -- 3. Silver Layer
