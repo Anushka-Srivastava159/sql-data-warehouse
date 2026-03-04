@@ -78,5 +78,3 @@ To deploy the entire warehouse and load all data, run the master script using SQ
 *   **Advanced SQL Techniques:** Use of Window Functions (`ROW_NUMBER`), CTEs, and SCD Type 2 logic.
 *   **Data Quality:** Dedicated `tests/` scripts for checking uniqueness, nulls, and schema consistency.
 *   **Comprehensive Documentation:** Full Data Catalog and visual architecture diagrams.
-
-
